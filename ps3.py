@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Problem Set 3: Simulating robots
-# Name:
+# Name: Selva Muthumalaiyappan
 # Collaborators (discussion):
 # Time:
 
